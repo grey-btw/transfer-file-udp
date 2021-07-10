@@ -1,0 +1,4 @@
+﻿  RecvFile.cpp
+D:\Users\trunl\source\repos\RecvFile\RecvFile\RecvFile.cpp(27,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Users\trunl\source\repos\RecvFile\RecvFile\RecvFile.cpp(87,10): warning C4101: 'sendBuf': unreferenced local variable
+  RecvFile.vcxproj -> D:\Users\trunl\source\repos\RecvFile\Debug\RecvFile.exe

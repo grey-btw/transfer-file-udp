@@ -1,0 +1,8 @@
+﻿  SendFile.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\Users\trunl\source\repos\SendFile\SendFile\SendFile.cpp(218,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 406 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SendFile.vcxproj -> D:\Users\trunl\source\repos\SendFile\Release\SendFile.exe

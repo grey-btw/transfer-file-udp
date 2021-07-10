@@ -1,0 +1,4 @@
+﻿  SendFile.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\Users\trunl\source\repos\SendFile\SendFile\SendFile.cpp(218,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  SendFile.vcxproj -> D:\Users\trunl\source\repos\SendFile\Debug\SendFile.exe
